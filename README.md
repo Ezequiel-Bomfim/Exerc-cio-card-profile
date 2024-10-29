@@ -6,7 +6,7 @@ Um desafio de criação de cartão de perfil com Flexbox
 
 ### Design Desktop
 
-[<img src="./design/desktop-design.jpg" alt="imagem de design desktop do projeto Profile card ">]
+<img src="./design/desktop-design.jpg" alt="imagem de design desktop do projeto Profile card ">
 
 ### Design Mobile
 [<img src="./design/mobile-design.jpg" alt="imagem de design mobile do projeto Profile card ">]
