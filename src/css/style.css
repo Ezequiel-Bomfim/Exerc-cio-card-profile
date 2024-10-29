@@ -1,6 +1,5 @@
 body {
     background-color: var(--background-padrao);
-    color: var(--cor-de-texto-padrao);
     font-family: 'Kumbh Sans';
     display: flex;
     justify-content: center;
@@ -50,14 +49,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    height: 100px;
+    height: 70px;
 }
 
 .info-perfil div {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 12px;
     font-size: 14px;
 }
 
